@@ -1,0 +1,58 @@
+#main {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #0F1626;
+    margin: 70px;
+    text-align: center;
+
+}
+#title {
+  color: red;
+  font-family: Comic Sans MS;
+  font-size: 40px;
+
+}
+
+h2 {
+  color: white;
+  font-size: 30px;
+}
+
+
+#tribute-info {
+    background-color: #F5F5F5;
+    color: #0F1626;
+    max-width: 900px;
+    margin: auto;
+   
+}
+
+#img-div {
+    text-align: center;
+    width: 100%;
+    display: center;
+    margin: auto;
+    height: auto;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+#img-caption {
+  color: white;
+}
+
+h3{
+    text-align: center;
+    margin: auto;
+}
+
+#tribute-link {
+  text-align: center;
+  color: #0F1626;
+}
